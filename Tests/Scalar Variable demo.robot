@@ -15,5 +15,5 @@ This is Scalar variable demonstartion1
     Log  ${MY_DATA}
 
 This is Scalar variable demonstartion2
-      [Tags]  testing2
+
      Log  ${MY_DATA2}
